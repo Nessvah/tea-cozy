@@ -9,9 +9,12 @@ body {
   text-align: center;
 }
 
+h2 {
+  font-size: 2rem;
+}
 /* NAVBAR */
 
-header {
+.nav-header {
   background-color: black;
   border-bottom: 1px solid seashell;
   position: fixed;
@@ -24,11 +27,11 @@ header {
   z-index: 999;
 }
 
-header img {
+.nav-header img {
   height: 50px;
 }
 
-nav ul {
+.nav-header ul {
   text-decoration: underline;
   display: inline-flex;
   gap: 30px;
@@ -64,6 +67,10 @@ li {
   width: 100%;
 }
 
-.mission-text h2 {
-  font-size: 2rem;
+/* ARTICLES SECTION */
+
+.section-header {
+  padding-top: 100px;
+  padding-bottom: 20px;
+  line-height: 2.5em;
 }
