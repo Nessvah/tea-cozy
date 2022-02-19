@@ -40,20 +40,30 @@ li {
 
 /* MAIN CONTENT */
 
-.hero-image {
+.main-section {
   background-image: url(/resources/assets/images/img-mission-background.webp);
   height: 700px;
-  max-width: 80%;
+  max-width: 90%;
+  margin: 0 auto 0.5rem;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  position: relative;
   top: 70px;
   display: flex;
-  justify-content: center;
 }
 
-.hero-text {
-  align-self: center;
+.mission-container {
+  display: flex;
+  align-items: center;
+  width: 100%;
+}
+
+.mission-text {
   background-color: black;
+  line-height: 3rem;
+  width: 100%;
+}
+
+.mission-text h2 {
+  font-size: 2rem;
 }
