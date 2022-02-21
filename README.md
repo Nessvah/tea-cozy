@@ -4,10 +4,8 @@
 
 In this project I created a fictional website for a tea shop.<br>
 This project and all the image assets are provided by Codecademy, from the Front-End Engineer career path.<br>
-They provide the design spec and the image assets to help along the way.<br>
-Everything else is done entirely by me.<br>
-This web page it's not yet fully responsive so viewing it on mobile may cause<br>
-layout issues.
+They provide the design spec and the image assets to help along the way. Everything else is done entirely by me.<br>
+This web page it's not yet fully responsive so viewing it on mobile may cause layout issues.
 
 ### Challenges that I encountered
 
@@ -28,5 +26,5 @@ and making the layout responsive on smaller sizes.
 
 ## Credits
 
-Codecademy - FrontEnd Career Path
-[webpage]<https://www.codecademy.com/>
+Codecademy - Front-End Engineer Career Path<br>
+<https://www.codecademy.com/>
